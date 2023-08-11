@@ -6,24 +6,6 @@ The 7805 IC Heatsink from your original NES Power Module will fit perfectly on o
 This orignal Heatsink will provide enough cooling for 1.5 amps of power on the L7805CV
 
 ## L7805CV <br>
-Expand
-forgithub.txt
-2 KB
-Guardian — Today at 3:37 AM
-I want to see how it looks on the GitHub too
-What is the title of this file.md?
-Merlin.Shaw — Today at 3:37 AM
-it has all the formatting and pictures in it
-I called it 7805 Linear Regulator and Alternatives.md
-﻿
-Merlin.Shaw
-merlin.shaw
-Launched in 1972, the 7805 and other 78 series LDO’s have proven their reliability and worth over the last 50 years.  
-Using a Linear Regulator will have more heat but will also have far less Noise than a switching regulator.  
-The 7805 IC Heatsink from your original NES Power Module will fit perfectly on our LDO boards
-This orignal Heatsink will provide enough cooling for 1.5 amps of power on the L7805CV
-
-## L7805CV <br>
 Price: $0.69 <br>
 Mouser: https://www.mouser.com/ProductDetail/511-L7805CV <br>
 Digikey: https://www.digikey.com/en/products/detail/stmicroelectronics/L7805CV/585964 <br>
