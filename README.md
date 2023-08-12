@@ -52,7 +52,9 @@ More information on compatible parts, and alternative modules will be provided. 
 
 ![image](https://raw.githubusercontent.com/Alchme/AtremisPower-NESRevival-Power-Module/main/ReadmeSources/Provided%20image%202.png)
 
-# Below is an example of the Orignal Power Module, Notice how the power traces keep crossing eachother and other components. Folks really didn't consider EMI a lot back then and opted to just cover the entire board in a metal shroud.
+# Below is an example of the Orignal Power Module
+
+>Please review and notice how the power traces keep crossing eachother and other components. Folks really didn't consider EMI a lot back then and opted to just cover the entire board in a metal shroud.
 
 ![image](https://raw.githubusercontent.com/Alchme/AtremisPower-NESRevival-Power-Module/main/ReadmeSources/Older%20PSU%20Example%20Acceptable.png)
 
