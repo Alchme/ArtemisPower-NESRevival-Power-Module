@@ -9,6 +9,8 @@ Project Guardian is a Design Partner, and has these available for sell.  <br> ht
 
 ![image](https://raw.githubusercontent.com/Alchme/AtremisPower-NESRevival-Power-Module/main/ReadmeSources/Newest%20Revision%20of%202.1d%20RCA%20Classic%20Acceptable.png)
 
+-> These are the current available V2.1e Modules. More to come soon~!
+
 =-=-=-=-=-=-About the Project-=-=-=-=-=-=
 
 The original NES Power Module is very noisy.  The Power Traces cross eachother and the ground home path is messy.
