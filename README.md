@@ -13,7 +13,7 @@ Project Guardian is a Design Partner, and has these available for sell.  <br> ht
 
 =-=-=-=-=-=-About the Project-=-=-=-=-=-=
 
-*** You may have seen this project on the MerlinShaw Github, and now only see the project here. This is due to Merlin kindly asking me to take this project forward into 2024 due to his personal complicaitons, and limited access to time resources for this project. ***
+***You may have seen this project on the MerlinShaw Github, and now only see the project here. This is due to Merlin kindly asking me to take this project forward into 2024 due to his personal complicaitons, and limited access to time resources for this project.***
 
 > I'm going to do my best on this project, adding more soon to it with more module prototypes~! - Alchme 2023
 
