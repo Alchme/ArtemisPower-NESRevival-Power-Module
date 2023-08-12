@@ -45,7 +45,7 @@ Please stay tuned~!
 
 More information on compatible parts, and alternative modules will be provided. As more changes are made.
 
-# Full uninterrupted ground plane on the back of the board.
+# Full uninterrupted ground plane on the PCB reverse.
 ![image](https://raw.githubusercontent.com/Alchme/AtremisPower-NESRevival-Power-Module/main/ReadmeSources/Back%20Acceptable.png)
 
 # An easier to solder DIY Version of the Revival Classic Composite Edition. [DIY RCA Classic Edition] V3.0
