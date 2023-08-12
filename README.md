@@ -9,12 +9,12 @@ Project Guardian is a Design Partner, and has these available for sell.  <br> ht
 
 ![image](https://raw.githubusercontent.com/Alchme/AtremisPower-NESRevival-Power-Module/main/ReadmeSources/Newest%20Revision%20of%202.1d%20RCA%20Classic%20Acceptable.png)
 
--> These are the current available V2.1e Modules. More to come soon~!
+-> These are the currently available V2.1e Modules. More to come soon~!
 
 =-=-=-=-=-=-About the Project-=-=-=-=-=-=
 
 The original NES Power Module is very noisy.  The Power Traces cross eachother and the ground home path is messy.
-EMI was not a worry in 1985 but noise can impact picture and sound quality. Best of modern engineering, with classic hardware.
+EMI was not a worry in 1985 but noise can impact picture and sound quality. Instead, we move forward with the best of modern engineering, with classic hardware.
 
 There have been many improvements over time with even safety features being added to allow extra tolerance in the design for faults.
 We continue to think of collaborative designs and improvements for all our projects. Please stay tuned!
@@ -41,6 +41,10 @@ Please stay tuned~!
 # The Latest in the forge, of the Revival Classic Composite Editions. [RCA LDO Classic Edition] V3.0
 ![image](https://raw.githubusercontent.com/Alchme/AtremisPower-NESRevival-Power-Module/main/ReadmeSources/Provided%20image%201.png)
 
+> "The Original Goals of these boards were to reduce noise.  But by adding a switching regulator, we just added noise back into the boards.  Wanting to return to the roots and use a Linear Regulator like the original NES means we will have far less noise and also Reliablity from a component that has been around for 50 years.  Redesigns were made to best utilize the board layout and special care was taken to get the Linear Regulator in the same spot as the original so the original Heat Shield can be used." -Merlin Shaw 2023
+
+More information on compatible parts, and alternative modules will be provided. As more changes are made.
+
 # Full uninterrupted ground plane on the back of the board.
 ![image](https://raw.githubusercontent.com/Alchme/AtremisPower-NESRevival-Power-Module/main/ReadmeSources/Back%20Acceptable.png)
 
@@ -51,7 +55,6 @@ Please stay tuned~!
 # Below is an example of the Orignal Power Module, Notice how the power traces keep crossing eachother and other components. Folks really didn't consider EMI a lot back then and opted to just cover the entire board in a metal shroud.
 
 ![image](https://raw.githubusercontent.com/Alchme/AtremisPower-NESRevival-Power-Module/main/ReadmeSources/Older%20PSU%20Example%20Acceptable.png)
-
 
 [IN PROGRESS]
 -Add Links to Wikis
