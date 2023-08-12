@@ -66,7 +66,7 @@ More information on compatible parts, and alternative modules will be provided. 
 
 ![image](https://raw.githubusercontent.com/Alchme/AtremisPower-NESRevival-Power-Module/main/ReadmeSources/Newest%20Revision%20of%202.1d%20RCA%20Classic%20Acceptable%20Back%202.png)
 
-# Thanks to Merlin Shaw for helping me learn how to make amazing PCBs, from the best practices perspectives of an engineer.
+***Thanks to Merlin Shaw for helping me learn how to make amazing PCBs, from the best practices perspectives of an engineer.***
 
 [IN PROGRESS]
 -Add Links to Wikis
