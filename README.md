@@ -1,6 +1,6 @@
 # NESRevival - Power Module for Repairs and DIY Consoles
 
-![image](https://raw.githubusercontent.com/Alchme/AtremisPower-NESRevival-Power-Module/main/ReadmeSources/Banner1.png)
+![image](https://raw.githubusercontent.com/Alchme/AtremisPower-NESRevival-Power-Module/main/ReadmeSources/NewestBanner1.png)
 
 The latest repository for the Repair Modules for the NESRevival Project. Preserved and Inhereted to Alchme/Guardians_Projects from Merlin Shaw. Who was our Original Developer. <br>
 Completely Redesigning the NES Power Module to Reduce Noise and EMI. Overall improving the design for the future foward~! <br>
